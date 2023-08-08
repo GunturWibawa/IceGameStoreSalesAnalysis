@@ -2,7 +2,7 @@
 
 Sales Analysis in Ice Video Game Store
 
-This endeavor represents my inaugural integrative assignment spanning Sprints 1 to 4.
+The project assigned to me as the first integration project of the bootcamp, the contents was involved by lessons from sprint 1 - 4.
 
 Throughout these sprints, my objective is to harness the accumulated knowledge and competencies cultivated from Sprints 1 through 4.
 
